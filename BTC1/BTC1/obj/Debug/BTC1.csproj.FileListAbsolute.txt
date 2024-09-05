@@ -1,0 +1,10 @@
+D:\Winnnnnn\BTC1\BTC1\bin\Debug\BTC1.exe.config
+D:\Winnnnnn\BTC1\BTC1\bin\Debug\BTC1.exe
+D:\Winnnnnn\BTC1\BTC1\bin\Debug\BTC1.pdb
+D:\Winnnnnn\BTC1\BTC1\obj\Debug\BTC1.csproj.AssemblyReference.cache
+D:\Winnnnnn\BTC1\BTC1\obj\Debug\BTC1.Form1.resources
+D:\Winnnnnn\BTC1\BTC1\obj\Debug\BTC1.Properties.Resources.resources
+D:\Winnnnnn\BTC1\BTC1\obj\Debug\BTC1.csproj.GenerateResource.cache
+D:\Winnnnnn\BTC1\BTC1\obj\Debug\BTC1.csproj.CoreCompileInputs.cache
+D:\Winnnnnn\BTC1\BTC1\obj\Debug\BTC1.exe
+D:\Winnnnnn\BTC1\BTC1\obj\Debug\BTC1.pdb
